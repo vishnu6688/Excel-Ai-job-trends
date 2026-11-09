@@ -1,2 +1,2 @@
-# Excel Ai-jobs
+# Ai-jobs
 Dataset and analysis of Ai trends
